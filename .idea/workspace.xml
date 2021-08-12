@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1aec33e-1f80-4d07-be00-9cac85223f2c" name="Default Changelist" comment="" />
+    <list default="true" id="a1aec33e-1f80-4d07-be00-9cac85223f2c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf>
@@ -15,10 +22,19 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/flutter_directory/.dart_tool/package_config.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-2563" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+            </state>
           </provider>
         </entry>
       </file>
@@ -26,6 +42,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1680" />
@@ -45,325 +68,6 @@
             <path>
               <item name="Flutter_Study_Demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="Flutter_Study_Demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flutter_Study_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flutter_Study_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flutter_Study_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flutter_Study_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="flutter_directory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flutter_Study_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flutter_Study_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="flutter_directory" type="462c0819:PsiDirectoryNode" />
-              <item name=".dart_tool" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flutter_Study_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flutter_Study_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="flutter_directory" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flutter_Study_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flutter_Study_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="flutter_directory" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flutter_Study_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flutter_Study_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="flutter_directory" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flutter_Study_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flutter_Study_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="flutter_directory" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="debug" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flutter_Study_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flutter_Study_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="flutter_directory" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flutter_Study_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flutter_Study_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="flutter_directory" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flutter_Study_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flutter_Study_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="flutter_directory" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flutter_Study_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flutter_Study_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="flutter_directory" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flutter_Study_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flutter_Study_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="flutter_directory" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="gradle" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flutter_Study_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flutter_Study_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="flutter_directory" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="gradle" type="462c0819:PsiDirectoryNode" />
-              <item name="wrapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flutter_Study_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flutter_Study_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="flutter_directory" type="462c0819:PsiDirectoryNode" />
-              <item name="ios" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flutter_Study_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flutter_Study_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="flutter_directory" type="462c0819:PsiDirectoryNode" />
-              <item name="ios" type="462c0819:PsiDirectoryNode" />
-              <item name="Flutter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flutter_Study_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flutter_Study_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="flutter_directory" type="462c0819:PsiDirectoryNode" />
-              <item name="ios" type="462c0819:PsiDirectoryNode" />
-              <item name="Runner" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flutter_Study_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flutter_Study_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="flutter_directory" type="462c0819:PsiDirectoryNode" />
-              <item name="ios" type="462c0819:PsiDirectoryNode" />
-              <item name="Runner" type="462c0819:PsiDirectoryNode" />
-              <item name="Assets.xcassets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flutter_Study_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flutter_Study_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="flutter_directory" type="462c0819:PsiDirectoryNode" />
-              <item name="ios" type="462c0819:PsiDirectoryNode" />
-              <item name="Runner" type="462c0819:PsiDirectoryNode" />
-              <item name="Assets.xcassets" type="462c0819:PsiDirectoryNode" />
-              <item name="AppIcon.appiconset" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flutter_Study_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flutter_Study_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="flutter_directory" type="462c0819:PsiDirectoryNode" />
-              <item name="ios" type="462c0819:PsiDirectoryNode" />
-              <item name="Runner" type="462c0819:PsiDirectoryNode" />
-              <item name="Assets.xcassets" type="462c0819:PsiDirectoryNode" />
-              <item name="LaunchImage.imageset" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flutter_Study_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flutter_Study_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="flutter_directory" type="462c0819:PsiDirectoryNode" />
-              <item name="ios" type="462c0819:PsiDirectoryNode" />
-              <item name="Runner" type="462c0819:PsiDirectoryNode" />
-              <item name="Base.lproj" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flutter_Study_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flutter_Study_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="flutter_directory" type="462c0819:PsiDirectoryNode" />
-              <item name="ios" type="462c0819:PsiDirectoryNode" />
-              <item name="Runner.xcodeproj" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flutter_Study_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flutter_Study_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="flutter_directory" type="462c0819:PsiDirectoryNode" />
-              <item name="ios" type="462c0819:PsiDirectoryNode" />
-              <item name="Runner.xcodeproj" type="462c0819:PsiDirectoryNode" />
-              <item name="project.xcworkspace" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flutter_Study_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flutter_Study_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="flutter_directory" type="462c0819:PsiDirectoryNode" />
-              <item name="ios" type="462c0819:PsiDirectoryNode" />
-              <item name="Runner.xcodeproj" type="462c0819:PsiDirectoryNode" />
-              <item name="project.xcworkspace" type="462c0819:PsiDirectoryNode" />
-              <item name="xcshareddata" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flutter_Study_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flutter_Study_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="flutter_directory" type="462c0819:PsiDirectoryNode" />
-              <item name="ios" type="462c0819:PsiDirectoryNode" />
-              <item name="Runner.xcodeproj" type="462c0819:PsiDirectoryNode" />
-              <item name="xcshareddata" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flutter_Study_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flutter_Study_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="flutter_directory" type="462c0819:PsiDirectoryNode" />
-              <item name="ios" type="462c0819:PsiDirectoryNode" />
-              <item name="Runner.xcodeproj" type="462c0819:PsiDirectoryNode" />
-              <item name="xcshareddata" type="462c0819:PsiDirectoryNode" />
-              <item name="xcschemes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flutter_Study_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flutter_Study_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="flutter_directory" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flutter_Study_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flutter_Study_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="flutter_http" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flutter_Study_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flutter_Study_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="flutter_http" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flutter_Study_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flutter_Study_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="flutter_http" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flutter_Study_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flutter_Study_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="flutter_http" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flutter_Study_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flutter_Study_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="flutter_http" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="debug" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flutter_Study_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flutter_Study_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="flutter_http" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flutter_Study_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flutter_Study_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="flutter_http" type="462c0819:PsiDirectoryNode" />
-              <item name="ios" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flutter_Study_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flutter_Study_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="flutter_http" type="462c0819:PsiDirectoryNode" />
-              <item name="ios" type="462c0819:PsiDirectoryNode" />
-              <item name="Flutter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flutter_Study_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flutter_Study_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="flutter_http" type="462c0819:PsiDirectoryNode" />
-              <item name="ios" type="462c0819:PsiDirectoryNode" />
-              <item name="Flutter" type="462c0819:PsiDirectoryNode" />
-              <item name="App.framework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flutter_Study_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flutter_Study_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="flutter_http" type="462c0819:PsiDirectoryNode" />
-              <item name="ios" type="462c0819:PsiDirectoryNode" />
-              <item name="Flutter" type="462c0819:PsiDirectoryNode" />
-              <item name="App.framework" type="462c0819:PsiDirectoryNode" />
-              <item name="flutter_assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flutter_Study_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flutter_Study_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="flutter_http" type="462c0819:PsiDirectoryNode" />
-              <item name="ios" type="462c0819:PsiDirectoryNode" />
-              <item name="Flutter" type="462c0819:PsiDirectoryNode" />
-              <item name="App.framework" type="462c0819:PsiDirectoryNode" />
-              <item name="flutter_assets" type="462c0819:PsiDirectoryNode" />
-              <item name="packages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flutter_Study_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flutter_Study_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="flutter_http" type="462c0819:PsiDirectoryNode" />
-              <item name="ios" type="462c0819:PsiDirectoryNode" />
-              <item name="Flutter" type="462c0819:PsiDirectoryNode" />
-              <item name="App.framework" type="462c0819:PsiDirectoryNode" />
-              <item name="flutter_assets" type="462c0819:PsiDirectoryNode" />
-              <item name="packages" type="462c0819:PsiDirectoryNode" />
-              <item name="cupertino_icons" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flutter_Study_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flutter_Study_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="flutter_http" type="462c0819:PsiDirectoryNode" />
-              <item name="ios" type="462c0819:PsiDirectoryNode" />
-              <item name="Flutter" type="462c0819:PsiDirectoryNode" />
-              <item name="App.framework" type="462c0819:PsiDirectoryNode" />
-              <item name="flutter_assets" type="462c0819:PsiDirectoryNode" />
-              <item name="packages" type="462c0819:PsiDirectoryNode" />
-              <item name="cupertino_icons" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flutter_Study_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flutter_Study_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="startup_namer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Flutter_Study_Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flutter_Study_Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="startup_namer" type="462c0819:PsiDirectoryNode" />
-              <item name=".dart_tool" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -404,6 +108,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" visible="true" weight="0.32967034" />
       <window_info id="Structure" side_tool="true" />
@@ -413,7 +118,7 @@
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Captures" order="0" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Version Control" weight="0.32959184" />
       <window_info anchor="bottom" id="TODO" />
       <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32959184" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
@@ -432,6 +137,13 @@
     <entry file="file://$PROJECT_DIR$/flutter_directory/.dart_tool/package_config.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2563" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
       </provider>
     </entry>
   </component>
